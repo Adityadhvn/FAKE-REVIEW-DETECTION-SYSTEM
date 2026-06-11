@@ -38,5 +38,5 @@ TF-IDF + Logistic Regression - 89.85% Confidence
 
 ## Demo
 
-[Streamlit App Link]
+[[Streamlit App Link]](https://fake-review-detector-aditya-dhawan.streamlit.app/)
 
