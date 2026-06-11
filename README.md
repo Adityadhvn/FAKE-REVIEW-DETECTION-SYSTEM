@@ -20,13 +20,13 @@ TF-IDF + Logistic Regression - 89.85% Confidence
 
 ## DistilBERT Confusion Matrix
 
-![DistilBERT Confusion Matrix](screenshots/distilbert_confusion_matrix.png)
+![DistilBERT Confusion Matrix](Screenshots/distilbert_confusion_matrix.png)
 
 ---
 
 ## TF-IDF + Logistic Regression Confusion Matrix
 
-![TF-IDF Confusion Matrix](screenshots/logistic_confusion_matrix.png)
+![TF-IDF Confusion Matrix](Screenshots/logistic_confusion_matrix.png)
 
 
 ## Features
