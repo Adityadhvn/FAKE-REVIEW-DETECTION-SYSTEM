@@ -7,6 +7,19 @@ A machine learning application that classifies reviews as:
 - Original Human Review
 - Computer Generated Review
 
+## Demo
+
+[[Streamlit App Link]](https://fake-review-detector-aditya-dhawan.streamlit.app/)
+
+
+.
+## Dataset Used 
+The dataset used for training these models is from Kaggle.com from user Mexwell. Acknowlegement
+Foto von Brett Jordan auf Unsplash
+[[Dataset Link]](https://www.kaggle.com/datasets/mexwell/fake-reviews-dataset)
+
+It has 50,000 reviews (50-50) fake and real reviews.
+
 ## Models: DistilBERT & TF-IDF Logistic Regression
 
 DistilBERT weights hosted on Hugging Face:
@@ -35,8 +48,4 @@ TF-IDF + Logistic Regression - 89.85% Confidence
 - Confidence score display
 - Hugging Face integration
 - Streamlit web interface
-
-## Demo
-
-[[Streamlit App Link]](https://fake-review-detector-aditya-dhawan.streamlit.app/)
 
